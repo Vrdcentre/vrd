@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://hackersandslackers.app",
-    "contentApiKey": "d23675c5c8bf2a03d5ee72684b"
+    "apiUrl": "https://vrdcentre.digitalpress.blog",
+    "contentApiKey": "fd7ed69d33ef9cfc2d8d7630d2"
   },
   "production": {
-    "apiUrl": "https://hackersandslackers.app",
-    "contentApiKey": "d23675c5c8bf2a03d5ee72684b"
+    "apiUrl": "https://vrdcentre.digitalpress.blog",
+    "contentApiKey": "fd7ed69d33ef9cfc2d8d7630d2"
   }
 }
